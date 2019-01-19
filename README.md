@@ -2,7 +2,7 @@
 
 Utilize o código da Tarefa 1 como ponto de partida para esta atividade.
 
-    Crie uma aplicação cliente que consiste em um terminal de entrada de valores para uma calculadora presente no servidor. A aplicação cliente não deverá realizar nenhum cálculo, apenas receber os operandos da entrada padrão (teclado), transmiti-los ao servidor, receber os resultados e apresentá-los na tela ao usuário.
+Crie uma aplicação cliente que consiste em um terminal de entrada de valores para uma calculadora presente no servidor. A aplicação cliente não deverá realizar nenhum cálculo, apenas receber os operandos da entrada padrão (teclado), transmiti-los ao servidor, receber os resultados e apresentá-los na tela ao usuário.
 
 Você deve definir o protocolo da Camada de Aplicação.
 
