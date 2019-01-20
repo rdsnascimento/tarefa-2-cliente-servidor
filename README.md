@@ -19,7 +19,9 @@ Você pode definir que uma mensagem específica informando ao servidor o número
 - Quantas operações em sequência o servidor aceita?
 Você pode definir que uma mensagem específica informando ao servidor o número de operações a ser realizada é necessária. Você pode definir que cliente e servidor sabem que sempre será apenas uma operação (neste caso nenhuma informação será necessária).
 
-Você define o protocolo! Você define as mensagens! Você define a aplicação! Este exercício é bastante livre e não existe uma implementação certa ou errada. A única coisa totalmente obrigatória é: A aplicação cliente não deverá realizar nenhum cálculo! Quem faz os cálculos é o servidor!
+Você define o protocolo! Você define as mensagens! Você define a aplicação! Este exercício é bastante livre e não existe uma implementação certa ou errada. 
+
+A única coisa totalmente obrigatória é: A aplicação cliente não deverá realizar nenhum cálculo! Quem faz os cálculos é o servidor!
 
 # Outras obrigatoriedades:
 
