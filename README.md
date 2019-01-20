@@ -1,4 +1,4 @@
-# Calculadora Cliente-Servidor.
+# Calculadora Cliente-Servidor
 
 Utilize o código da Tarefa 1 como ponto de partida para esta atividade.
 
