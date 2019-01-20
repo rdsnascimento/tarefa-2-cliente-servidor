@@ -14,9 +14,11 @@ Você deve definir o protocolo da Camada de Aplicação.
 Por exemplo, um protocolo pode definir que, antes dos operandos, uma mensagem deve ser enviada pelo cliente com o tipo de operação aritmética (ex.: uma mensagem "+", uma mensagem "2", uma mensagem "3"). Outro protocolo pode definir que os operandos são enviados primeiro e depois a operação é informada (ex.: uma mensagem "2", uma mensagem "3", uma mensagem "5"). Um terceiro protocolo pode definir que uma única mensagem contendo operandos e tipo operação é enviada (ex.: uma mensagem 2+5).
 
 - Quantos operandos em sequência o servidor aceita?
+
 Você pode definir que uma mensagem específica informando ao servidor o número de operandos é necessária. Você pode definir que cliente e servidor sabem que sempre serão dois operandos (neste caso nenhuma informação será necessária).
 
 - Quantas operações em sequência o servidor aceita?
+
 Você pode definir que uma mensagem específica informando ao servidor o número de operações a ser realizada é necessária. Você pode definir que cliente e servidor sabem que sempre será apenas uma operação (neste caso nenhuma informação será necessária).
 
 Você define o protocolo! Você define as mensagens! Você define a aplicação! Este exercício é bastante livre e não existe uma implementação certa ou errada. 
